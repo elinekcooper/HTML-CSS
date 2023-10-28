@@ -23,10 +23,18 @@ h1{
 }   
 
 h2 {
-    color: purple;
+    color: yellow;
 }
 
 li {
     font-family: monospace;
-    color: white
+    color: white;
+}
+
+.pizza{
+    width: 50%;
+}
+
+a{
+    color: white;
 }
